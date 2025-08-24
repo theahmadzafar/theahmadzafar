@@ -1,4 +1,4 @@
-<img height="200px" src="ahmad-zafar-signature.png"/>
+<img width="100%" src="ahmad-zafar-signature.png"/>
 
 # 💫 About Me:
 
