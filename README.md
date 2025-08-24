@@ -1,6 +1,6 @@
 <img width="100%" src="ahmad-zafar-signature.png"/>
 
-# 💫 About Me:
+#  About Me:
 
 Software Developer Golang | Team lead at ninjagaming.com | Cloud native development | Architecture design | Micro services | Distributed Systems | Kubernetes | gRPC | Rest
 <details>
@@ -12,7 +12,8 @@ Results-oriented professional thriving in a highly collaborative work environmen
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/theahmadzafar)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/theahmadzafar/)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/theahmadzafar)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=x&logoColor=white)](https://twitter.com/theahmadzafar)
+[![bayt](https://img.shields.io/badge/Bayt-003366.svg?logo=Bayt&logoColor=white)](https://people.bayt.com/theahmadzafar/?lang=en)
 
 # 💻 Tech Stack
 
@@ -24,6 +25,13 @@ Results-oriented professional thriving in a highly collaborative work environmen
 ![gRPC](https://img.shields.io/badge/gRPC-00C7B7?style=for-the-badge&logo=grpc&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST-FF6F00?style=for-the-badge&logo=rest&logoColor=white)
 ![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
+
+---
+
+## 🗄️ Messaging
+![NATS](https://img.shields.io/badge/NATS-27AAE1?style=for-the-badge&logo=natsdotio&logoColor=white)
+![rabbitmq](https://img.shields.io/badge/rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![apachekafka](https://img.shields.io/badge/kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
 
 ---
 
