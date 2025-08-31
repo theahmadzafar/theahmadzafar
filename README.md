@@ -1,14 +1,22 @@
 <img width="100%" src="ahmad-zafar-signature.png"/>
+<div align="center">
 
 #  About Me:
 
+</div>
+
 Software Developer Golang | Team lead at ninjagaming.com | Cloud native development | Architecture design | Micro services | Distributed Systems | Kubernetes | gRPC | Rest
+
 <details>
+
 Results-oriented professional thriving in a highly collaborative work environment, adept at resolving challenges and dedicated to ensuring customer satisfaction. Demonstrated proficiency in crafting consumer-centric web applications leveraging Golang for backend development. Proficient in translating solutions into efficient backend code and seamlessly interfacing with various APIs, third-party integrations, and databases.
+
 </details>
 
 
-## 🌐 Socials:
+<div align="center">
+
+# 🌐 Socials
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/theahmadzafar)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/theahmadzafar/)
@@ -75,3 +83,5 @@ Results-oriented professional thriving in a highly collaborative work environmen
 ![Agile](https://img.shields.io/badge/Agile-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
 ---
+
+</div>
