@@ -5,7 +5,7 @@
 
 </div>
 
-Software Developer Golang | Team lead at ninjagaming.com | Cloud native development | Architecture design | Micro services | Distributed Systems | Kubernetes | gRPC | Rest
+Senior Software Developer Golang NodeJS | Team lead at ninjagaming.com | Cloud native development | Architecture design | Micro services | Distributed Systems | Kubernetes | gRPC | Rest
 
 <details>
 
@@ -27,9 +27,16 @@ Results-oriented professional thriving in a highly collaborative work environmen
 
 ## 🖥️ Programming & Backend
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![NodeJS](https://img.shields.io/badge/nodejs-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![unity](https://img.shields.io/badge/unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=black)
+
+---
+
+## 📡 Communication Protocols
+
 ![gRPC](https://img.shields.io/badge/gRPC-00C7B7?style=for-the-badge&logo=grpc&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST-FF6F00?style=for-the-badge&logo=rest&logoColor=white)
 ![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
@@ -39,18 +46,21 @@ Results-oriented professional thriving in a highly collaborative work environmen
 ## 🗄️ Messaging
 ![NATS](https://img.shields.io/badge/NATS-27AAE1?style=for-the-badge&logo=natsdotio&logoColor=white)
 ![rabbitmq](https://img.shields.io/badge/rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
-![apachekafka](https://img.shields.io/badge/kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![apachekafka](https://img.shields.io/badge/kafka-black?style=for-the-badge&logo=apachekafka&logoColor=white)
 
 ---
 
 ## ☁️ DevOps & Cloud
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-277A9F?style=for-the-badge&logo=helm&logoColor=white)
+
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Hetzner](https://img.shields.io/badge/hetzner-white?style=for-the-badge&logo=amazon-aws&logoColor=#D50C2D)
 ![Google Cloud](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+
 ![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
 ![Argo CD](https://img.shields.io/badge/Argo%20CD-FB6D3A?style=for-the-badge&logo=argo&logoColor=white)
-![Helm](https://img.shields.io/badge/Helm-277A9F?style=for-the-badge&logo=helm&logoColor=white)
 ![GitLab CI](https://img.shields.io/badge/GitLab%20CI/CD-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
 
 ---
@@ -59,9 +69,11 @@ Results-oriented professional thriving in a highly collaborative work environmen
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![ClickHouse](https://img.shields.io/badge/ClickHouse-FFCC01?style=for-the-badge&logo=clickhouse&logoColor=black)
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 ---
 
@@ -81,6 +93,7 @@ Results-oriented professional thriving in a highly collaborative work environmen
 ## 🧪 Methodologies & Practices
 ![TDD](https://img.shields.io/badge/TDD-FF5733?style=for-the-badge&logo=testcafe&logoColor=white)
 ![Agile](https://img.shields.io/badge/Agile-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Code Quality & Clean Code](https://img.shields.io/badge/Code%20Quality%20&%20Clean%20Code-20B2AA?style=for-the-badge)
 
 ---
 
