@@ -94,6 +94,15 @@ Results-oriented professional thriving in a highly collaborative work environmen
 ![TDD](https://img.shields.io/badge/TDD-FF5733?style=for-the-badge&logo=testcafe&logoColor=white)
 ![Agile](https://img.shields.io/badge/Agile-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![Code Quality & Clean Code](https://img.shields.io/badge/Code%20Quality%20&%20Clean%20Code-20B2AA?style=for-the-badge)
+![Object-Oriented](https://img.shields.io/badge/Object--Oriented-20B2AA?style=for-the-badge)
+![Class-Based](https://img.shields.io/badge/Class--Based-3776AB?style=for-the-badge)
+![Prototypal](https://img.shields.io/badge/Prototypal-339933?style=for-the-badge)
+![Compositional](https://img.shields.io/badge/Compositional-FF8C00?style=for-the-badge)
+![Functional](https://img.shields.io/badge/Functional-8E44AD?style=for-the-badge)
+![Event-Driven](https://img.shields.io/badge/Event--Driven-E67E22?style=for-the-badge)
+![Imperative](https://img.shields.io/badge/Imperative-2C3E50?style=for-the-badge)
+![Declarative](https://img.shields.io/badge/Declarative-16A085?style=for-the-badge)
+
 
 ---
 
