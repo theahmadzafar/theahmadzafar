@@ -5,11 +5,11 @@
 
 </div>
 
-Senior Software Developer Golang NodeJS | Team lead at ninjagaming.com | Cloud native development | Architecture design | Micro services | Distributed Systems | Kubernetes | gRPC | Rest
+Senior Software Developer Golang | Python | NodeJS | Team lead at ninjagaming.com | Cloud native development | Architecture design | Micro services | Distributed Systems | Kubernetes | gRPC | Rest
 
 <details>
 
-Results-oriented professional thriving in a highly collaborative work environment, adept at resolving challenges and dedicated to ensuring customer satisfaction. Demonstrated proficiency in crafting consumer-centric web applications leveraging Golang for backend development. Proficient in translating solutions into efficient backend code and seamlessly interfacing with various APIs, third-party integrations, and databases.
+Results-oriented professional thriving in a highly collaborative work environment, adept at resolving challenges and dedicated to ensuring customer satisfaction. Demonstrated proficiency in crafting consumer-centric web applications leveraging Golang Python and NodeJs for backend development. Proficient in translating solutions into efficient backend code and seamlessly interfacing with various APIs, third-party integrations, and databases.
 
 </details>
 
