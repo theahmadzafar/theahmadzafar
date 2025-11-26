@@ -33,6 +33,13 @@ Results-oriented professional thriving in a highly collaborative work environmen
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![unity](https://img.shields.io/badge/unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=black)
 
+##  Large language models (LLMs)
+![LangChain](https://img.shields.io/badge/LangChain-1A1A1A?style=for-the-badge&logo=chainlink&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
+![Llama](https://img.shields.io/badge/Llama-FF9900?style=for-the-badge&logo=meta&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-0A84FF?style=for-the-badge&logo=semantic-web&logoColor=white)
+
 ---
 
 ## 📡 Communication Protocols
