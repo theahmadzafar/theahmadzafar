@@ -82,7 +82,7 @@ Results-oriented professional thriving in a highly collaborative work environmen
 [![Argo CD](https://img.shields.io/badge/Argo%20CD-FB6D3A?style=for-the-badge&logo=argo&logoColor=white)](https://argo-cd.readthedocs.io)
 [![GitLab CI/CD](https://img.shields.io/badge/GitLab%20CI/CD-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)](https://docs.gitlab.com/ee/ci/)
 [![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)](https://docs.github.com/actions)
-
+[![Atlantis](https://img.shields.io/badge/Atlantis-blue?style=for-the-badge&logo=terraform&logoColor=white)](https://www.runatlantis.io)
 
 ---
 
@@ -106,6 +106,7 @@ Results-oriented professional thriving in a highly collaborative work environmen
 ![NATS](https://img.shields.io/badge/NATS-27AAE1?style=for-the-badge&logo=natsdotio&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 ![Apache Kafka](https://img.shields.io/badge/Kafka-000000?style=for-the-badge&logo=apachekafka&logoColor=white)
+[![googlepubsub](https://img.shields.io/badge/google%20pub/sub-AECBFA?style=for-the-badge&logo=googlepubsub&logoColor=black)](https://cloud.google.com/pubsub?hl=en)
 
 ---
 
