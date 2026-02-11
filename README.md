@@ -65,7 +65,7 @@ Results-oriented professional thriving in a highly collaborative work environmen
 [![Kratos](https://img.shields.io/badge/Kratos-000000?style=for-the-badge&logo=ory&logoColor=white)](https://github.com/go-kratos/kratos)
 [![Temporal](https://img.shields.io/badge/Temporal-000000?style=for-the-badge&logo=temporal&logoColor=white)](https://temporal.io/)
 [![Stripe](https://img.shields.io/badge/Stripe%20Payments-635BFF?style=for-the-badge&logo=stripe&logoColor=white)](https://stripe.com/ae)
-[![Clerk](https://img.shields.io/badge/Clerk%20Auth-6C47FF?style=for-the-badge)](https://clerk.com/)
+[![Clerk](https://img.shields.io/badge/Clerk%20Auth-white?style=for-the-badge&logo=clerk&logoColor=6C47FF)](https://clerk.com/)
 
 ---
 
