@@ -72,6 +72,7 @@ Results-oriented professional thriving in highly collaborative environments, ade
 [![Temporal](https://img.shields.io/badge/Temporal-000000?style=for-the-badge&logo=temporal&logoColor=white)](https://temporal.io/)
 [![Stripe](https://img.shields.io/badge/Stripe%20Payments-635BFF?style=for-the-badge&logo=stripe&logoColor=white)](https://stripe.com/ae)
 [![Clerk](https://img.shields.io/badge/Clerk%20Auth-6C47FF?style=for-the-badge&logo=clerk&logoColor=white)](https://clerk.com/)
+[![moyasar](https://img.shields.io/badge/Moyasar.sa-FFFFFF?style=for-the-badge)](https://moyasar.com/)
 [![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white)](https://firebase.google.com/)
 
 </div>
@@ -108,6 +109,7 @@ Results-oriented professional thriving in highly collaborative environments, ade
 [![Atlas](https://img.shields.io/badge/Atlas-2C2C2C?style=for-the-badge&logo=go&logoColor=white)](https://atlasgo.io/)
 [![Bun ORM](https://img.shields.io/badge/Bun%20ORM-000000?style=for-the-badge&logo=bun&logoColor=white)](https://bun.uptrace.dev/)
 [![GORM](https://img.shields.io/badge/GORM-00ADD8?style=for-the-badge&logo=go&logoColor=white)](https://gorm.io/index.html)
+[![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white)](https://www.Sequelize.io)
 
 </div>
 
